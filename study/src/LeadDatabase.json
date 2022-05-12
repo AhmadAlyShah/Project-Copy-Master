@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "date": "1-6-2022",
+        "stuname": "asjad",
+        "currentqual": "bscs",
+        "wantstudy": "England",
+        "city": "Manchester",
+        "interestcountry": "./image/Ellipse 1260.png",
+        "verified": "pending"
+    },
+    {
+        "id": 2,
+        "date": "1-6-2022",
+        "stuname": "muneeb",
+        "currentqual": "bscs",
+        "wantstudy": "England",
+        "city": "Manchester",
+        "interestcountry": "./image/Ellipse 1260.png",
+        "verified": "pending"
+    },
+    {
+        "id": 3,
+        "date": "1-6-2022",
+        "stuname": "mamoon",
+        "currentqual": "bscs",
+        "wantstudy": "England",
+        "city": "Manchester",
+        "interestcountry": "./image/Ellipse 1260.png",
+        "verified": "pending"
+    }
+]

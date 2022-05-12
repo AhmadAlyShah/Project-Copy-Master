@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1938" height="1046.635" viewBox="0 0 1938 1046.635">
+  <defs>
+    <filter id="Fill_1" x="0" y="0" width="1938" height="532.317" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Fill_1-2" x="0" y="514.317" width="1938" height="532.317" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1200" data-name="Group 1200" transform="translate(9 -571.683)">
+    <g transform="matrix(1, 0, 0, 1, -9, 571.68)" filter="url(#Fill_1)">
+      <path id="Fill_1-3" data-name="Fill 1" d="M1920,514.317c-122.887-35.427-227.681-78.63-341.1-118.15h0c-127.722-44.5-273.342-85.686-445.738-101.021h0c-101.418-9.021-207.3-8.645-310.626-14.171h0c-214.7-11.482-417.873-49.348-568.07-105.873h0C126.365,126.9,37.488,65.369,0,0H1920Z" transform="translate(1929 520.32) rotate(180)" fill="#45c1b9" opacity="0.059"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, 571.68)" filter="url(#Fill_1-2)">
+      <path id="Fill_1-4" data-name="Fill 1" d="M1920,514.317c-122.887-35.427-227.681-78.63-341.1-118.15h0c-127.722-44.5-273.342-85.686-445.738-101.021h0c-101.418-9.021-207.3-8.645-310.626-14.171h0c-214.7-11.482-417.873-49.348-568.07-105.873h0C126.365,126.9,37.488,65.369,0,0H1920Z" transform="translate(9 520.32)" fill="#45c1b9" opacity="0.059"/>
+    </g>
+  </g>
+</svg>
